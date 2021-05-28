@@ -4,7 +4,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class Exx19 {
-	
+		
 	/*
 	 * Leia o valor a ser sacado por uma pessoa e informe quantidade de cada cédula e centavo que será fornecida. 
 	 * O valor mínimo de saque é de R$3,00 e o máximo de R$1500,00.
